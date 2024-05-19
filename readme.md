@@ -45,10 +45,3 @@ We welcome contributions to make Trend Analyzer even better! Feel free to open i
 
 Trend Analyzer is not affiliated with TikTok and uses only publicly available data. We respect your privacy and do not collect any personally identifiable information.
 
-Key Changes:
- * Markdown Format: Uses Markdown syntax for headings, lists, and other elements.
- * Clear Structure: The description is organized into sections with descriptive headings.
- * Image Placeholder: Includes a placeholder for your app icon (replace `` with your actual icon).
- * Call to Action: Provides instructions on how to get started with the code.
- * Contribution Section: Invites users to contribute to the project.
-This revised description is more engaging and informative for a README file. It provides a clear overview of the app's features, benefits, and target audience, while also encouraging collaboration.
